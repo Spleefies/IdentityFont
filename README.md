@@ -5,6 +5,9 @@ Reconstruction of the LTAIdentity font, a Humanistic sans-serif font that is com
 
 [Download it from the Releases](https://github.com/Spleefies/IdentityFont/releases)
 
+## How was it made?
+This was forked from [jglim/IdentityFont](https://github.com/jglim/IdentityFont), and the characters added after were pulled from [this document](https://www.lta.gov.sg/content/dam/ltagov/who_we_are/statistics_and_publications/books/pdf/REthink_190918web.pdf) using MuPDF.
+
 ## Is it exact?
 
 ![Overlay](https://raw.githubusercontent.com/Spleefies/IdentityFont/main/docs/resources/overlay.jpg)
@@ -19,7 +22,7 @@ Please let me know if there are better approaches to this issue.
 ![Glyphs](https://raw.githubusercontent.com/Spleefies/IdentityFont/main/docs/resources/glyphs.png)
 
 ## Does it support hinting?
-No, this is a title font and isn't intended to be a display font. I would not recommend typing an entire document, or replacing your OS font with this.
+No.
 
 ## There seems to be another font that's used in our public transport..?
 That would most likely be _Ocean Sans_, which is frequently used together with their Identity font.
