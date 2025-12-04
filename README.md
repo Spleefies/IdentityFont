@@ -17,7 +17,7 @@ No. The individual glyphs' outlines should be pretty close, along with its metri
 Please let me know if there are better approaches to this issue.
 
 ## What's in the character set?
-[a-zA-Z0-9] and +-./,:;<=>!".
+[a-zA-Z0-9] and +-./,:;<=>!&".
 
 ![Glyphs](https://raw.githubusercontent.com/Spleefies/IdentityFont/main/docs/resources/glyphs.png)
 
